@@ -1,0 +1,11 @@
+order_id,date,region,product,category,sales,quantity,profit,revenue_per_unit
+1001,2024-01-01,South,Shampoo,Personal Care,300.00,5,50.00,60.00
+1002,2024-01-01,North,Notebook,Stationery,120.00,3,30.00,40.00
+1003,2024-01-02,East,Biscuits,Food,250.00,10,70.00,25.00
+1004,2024-01-02,West,Pencil,Stationery,60.00,6,10.00,10.00
+1005,2024-01-03,South,Handwash,Personal Care,200.00,4,40.00,50.00
+1006,2024-01-03,North,Bread,Food,180.00,6,20.00,30.00
+1007,2024-01-04,East,Markers,Stationery,300.00,5,60.00,60.00
+1008,2024-01-04,West,Toothpaste,Personal Care,240.00,3,55.00,80.00
+1009,2024-01-05,South,Cookies,Food,210.00,7,45.00,30.00
+1010,2024-01-05,North,Notebook,Stationery,160.00,4,20.00,40.00
