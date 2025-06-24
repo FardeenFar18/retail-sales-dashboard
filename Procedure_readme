@@ -1,0 +1,29 @@
+# 🛒 Retail Sales Dashboard
+
+This project is a complete sales analysis using:
+
+- ✅ Excel (Data Cleaning)
+- ✅ SQL (Database Table)
+- ✅ Power BI (Visual Dashboard)
+
+## 📊 Features
+- Total Sales, Profit, and Quantity KPIs
+- Sales over time (Line chart)
+- Sales by region and category (Bar charts)
+- Profit vs Sales comparison
+- Interactive layout with color-coded visuals
+
+## 📁 Files Included
+- `retail_sales_dashboard.pbix`: Main Power BI report
+- `retail_sales.csv`: Cleaned data source
+- `retail_sales.sql`: Table and query structure
+
+## 🔧 Tools Used
+- Power BI Desktop
+- MySQL
+- WPS Excel
+
+---
+
+✅ Designed and built by **Fardeen**  
+📧 [Your Email or LinkedIn here]
